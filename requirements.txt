@@ -1,0 +1,13 @@
+jupyter
+matplotlib
+librosa
+madmom
+cython
+madmom
+cv2
+python-cv2
+opencv-python
+sgmllib
+sgmllib3k
+ffmpy
+tzlocal
